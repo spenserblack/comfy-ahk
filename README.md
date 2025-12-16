@@ -1,4 +1,4 @@
-# `colorscheme-toggle.ahk`
+# comfy-ahk
 
 AutoHotkey scripts to make Windows a bit more comfy.
 
