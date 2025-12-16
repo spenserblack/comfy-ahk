@@ -22,6 +22,8 @@ Tray.Default := ToggleItemName
 Tray.Add() ; Adds a separator
 Tray.Add(DarkThemeItemName, SetDarkTheme)
 Tray.Add(LightThemeItemName, SetLightTheme)
+Tray.Add() ; Adds a separator
+Tray.AddStandard()
 
 SetDarkTheme(*) {
     SetTheme(DarkTheme)
