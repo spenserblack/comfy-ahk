@@ -2,6 +2,8 @@
 
 Switch between dark and light themes in Windows from the system tray (AKA notification area)
 
+Inspired by the dark mode toggle included in recent versions of Ubuntu.
+
 ## Setup
 
 1. Install [AutoHotkey](https://www.autohotkey.com/) v2
