@@ -39,5 +39,5 @@ on Linux.
 - Double-click to launch the terminal
 - Right-click and...
   - Click "Run ..." to execute the command
-  - Click "Change terminal command" to register a different command to start the terminal
+  - Click "Change terminal command" to register a different command to start the terminal (default is `cmd.exe`)
 - Press `Ctrl` + `Alt` + `T` to start the terminal
